@@ -1,3 +1,5 @@
 .vscode/
 build/
 .gitignore
+pico-sdk/
+pico_sdk_import.cmake
